@@ -1,15 +1,15 @@
-#UnitySocket开源框架
+++#UnitySocket开源框架
 
 *一款非常小巧的适用于Unity开发中使用Socket技术时的框架*
 
 **框架要求:**
-.Net 2.0以上
+*.Net 2.0以上*
 
 **Unity版本要求**
-Unity 4.6.3以上
+*Unity 4.6.3以上*
 
 **开发语言**
-C#
+*C#*
 
 **使用到的系统库**
 ```
@@ -104,21 +104,7 @@ client.SendMessage(Random.Range(100,999).ToString(),((bool isSended) => {
 }));
 ```
 
-最后，真诚的希望能够提出宝贵意见给我
-联系方式:
-E-mail:applexiaohao@gmail.com
-QQ:632138357
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**最后，真诚的希望能够提出宝贵意见给我~**
+**联系方式:**
+*E-mail:applexiaohao@gmail.com*
+*QQ:632138357*
