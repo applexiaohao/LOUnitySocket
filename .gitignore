@@ -1,0 +1,10 @@
+#文件
+/LOUnitySocketDemo/Assembly-CSharp-vs.csproj
+/LOUnitySocketDemo/Assembly-CSharp.csproj
+/LOUnitySocketDemo/LOUnitySocketDemo-csharp.sln
+/LOUnitySocketDemo/LOUnitySocketDemo.sln
+/LOUnitySocketDemo/LOUnitySocketDemo.userprefs
+# 文件夹
+/LOUnitySocketDemo/Library/
+/LOUnitySocketDemo/obj/
+/LOUnitySocketDemo/Temp/
